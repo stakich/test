@@ -3,6 +3,7 @@ rock = 'rock'
 paper = 'paper'
 scissors = 'scissors'
 
+# test second commit
 player_move = input('Choose [r]ock, [p]aper or [s]cissors: ')
 
 if player_move == 'r':
